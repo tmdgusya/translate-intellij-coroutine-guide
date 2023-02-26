@@ -12,5 +12,5 @@
 
 
 
-코틀린 코루틴을 사용하여 이 가이드에 있는 예제들을 따라하려면 프로젝트 \[README.md]\([https://github.com/tmdgusya/translate-intellij-coroutine-guide](https://github.com/tmdgusya/translate-intellij-coroutine-guide)) 에서 설명한대로 `kotlinx-coroutines-core` 모듈의 의존성을 추가해야 합니다.
+코틀린 코루틴을 사용하여 이 가이드에 있는 예제들을 따라하려면 프로젝트 [README.md](./) 에서 설명한대로 `kotlinx-coroutines-core` 모듈의 의존성을 추가해야 합니다.
 
